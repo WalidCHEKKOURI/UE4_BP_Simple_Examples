@@ -2957,3 +2957,24 @@ Script Stack (0 frames):
 [2020.07.26-17.59.48:825][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_3DWidget" FILE="../../../../../Users/walid/Desktop/BPs/Saved/Autosaves/Game/BPs/BP_3DWidget_Auto0.uasset" SILENT=false AUTOSAVING=true
 [2020.07.26-17.59.49:164][683]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/BP_3DWidget_Auto0F35F4ED646BB9B9D8A7A00B28BA6580D.tmp' to '../../../../../Users/walid/Desktop/BPs/Saved/Autosaves/Game/BPs/BP_3DWidget_Auto0.uasset'
 [2020.07.26-17.59.49:187][683]LogFileHelpers: Auto-saving content packages took 0.377
+[2020.07.26-18.35.14:231][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.26-18.35.25:886][491]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.26-18.36.37:179][351]LogUObjectHash: Compacting FUObjectHashTables data took  78.99ms
+[2020.07.26-18.36.45:671][351]LogSlate: Window 'Save Content' being destroyed
+[2020.07.26-18.36.45:728][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_3DWidget" FILE="../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_3DWidget.uasset" SILENT=true
+[2020.07.26-18.36.45:812][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/BP_3DWidget54F00160411AB97B34672B9C682B2977.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_3DWidget.uasset'
+[2020.07.26-18.36.45:816][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_ActorA" FILE="../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_ActorA.uasset" SILENT=true
+[2020.07.26-18.36.46:078][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/BP_ActorA77078E514BA01EC5FF741C920216FED2.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_ActorA.uasset'
+[2020.07.26-18.36.46:082][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_ActorB" FILE="../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_ActorB.uasset" SILENT=true
+[2020.07.26-18.36.46:262][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/BP_ActorB785E3AE64EB88663BEC2A7A9CF4A0DF7.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_ActorB.uasset'
+[2020.07.26-18.36.46:270][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/BP_myInterface" FILE="../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_myInterface.uasset" SILENT=true
+[2020.07.26-18.36.46:333][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/BP_myInterface13930AE14B62D912D96DB38852368F20.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/BPs/BP_myInterface.uasset'
+[2020.07.26-18.36.46:379][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Users/walid/Desktop/BPs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.07.26-18.36.46:821][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/ThirdPersonCharacter72A7A1454991EB206CB4E59E90452328.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.07.26-18.36.47:418][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.07.26-18.36.49:700][351]LogSavePackage: Moving '../../../../../Users/walid/Desktop/BPs/Saved/ThirdPersonExampleMap4530674E4BA36B5F75A0E8A94462C326.tmp' to '../../../../../Users/walid/Desktop/BPs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.07.26-18.36.56:463][351]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 9.575
+[2020.07.26-18.36.58:674][351]LogSlate: Window 'BPs - Unreal Editor' being destroyed
+[2020.07.26-18.36.59:044][351]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.26-18.37.02:600][351]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.07.26-18.37.02:600][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
